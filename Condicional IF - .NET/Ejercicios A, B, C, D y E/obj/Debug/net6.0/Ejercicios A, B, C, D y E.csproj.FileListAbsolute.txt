@@ -1,0 +1,15 @@
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\bin\Debug\net6.0\Ejercicios A, B, C, D y E.exe
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\bin\Debug\net6.0\Ejercicios A, B, C, D y E.deps.json
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\bin\Debug\net6.0\Ejercicios A, B, C, D y E.runtimeconfig.json
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\bin\Debug\net6.0\Ejercicios A, B, C, D y E.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\bin\Debug\net6.0\Ejercicios A, B, C, D y E.pdb
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.csproj.AssemblyReference.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.AssemblyInfoInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.AssemblyInfo.cs
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.csproj.CoreCompileInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\refint\Ejercicios A, B, C, D y E.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.pdb
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\Ejercicios A, B, C, D y E.genruntimeconfig.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicios A, B, C, D y E\obj\Debug\net6.0\ref\Ejercicios A, B, C, D y E.dll

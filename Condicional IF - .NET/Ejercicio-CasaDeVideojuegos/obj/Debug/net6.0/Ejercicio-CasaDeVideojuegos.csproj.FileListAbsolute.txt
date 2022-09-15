@@ -1,0 +1,15 @@
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\bin\Debug\net6.0\Ejercicio-CasaDeVideojuegos.exe
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\bin\Debug\net6.0\Ejercicio-CasaDeVideojuegos.deps.json
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\bin\Debug\net6.0\Ejercicio-CasaDeVideojuegos.runtimeconfig.json
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\bin\Debug\net6.0\Ejercicio-CasaDeVideojuegos.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\bin\Debug\net6.0\Ejercicio-CasaDeVideojuegos.pdb
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.csproj.AssemblyReference.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.AssemblyInfoInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.AssemblyInfo.cs
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\refint\Ejercicio-CasaDeVideojuegos.dll
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.pdb
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\Ejercicio-CasaDeVideojuegos.genruntimeconfig.cache
+C:\Users\psarmiento20_2836\Desktop\Curso de .NET\Ciclo IF - .NET\Ejercicio-CasaDeVideojuegos\obj\Debug\net6.0\ref\Ejercicio-CasaDeVideojuegos.dll
